@@ -7,7 +7,7 @@ I am a fullstack web dev who also edit videos.
   - learning: **Go**
   - editing for the guy who doesn't know what he is talking about: [**theo**](https://twitter.com/t3dotgg)
 
-### 🛠️ Techstack: 
+### 🛠️ Techstack 
   - [T3 Stack](https://github.com/t3-oss/create-t3-app#about)
   - [Expo](https://expo.dev/)
   - [ElectronJS](https://www.electronjs.org/)
