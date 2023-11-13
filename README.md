@@ -2,8 +2,7 @@
 I am a fullstack web dev who also edit videos. 
 
 ### 👨‍💻 Currently
-  - unemployed
-  - working on: [**TypeHero**](https://typehero.dev/)
+  - OSS: [**TypeHero**](https://typehero.dev/)
   - learning: **Go**
   - editing for the guy who doesn't know what he is talking about: [**theo**](https://twitter.com/t3dotgg)
 
