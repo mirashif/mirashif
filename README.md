@@ -4,7 +4,8 @@ I am a fullstack web dev who also edit videos.
 ### 👨‍💻 Currently
   - OSS: [**TypeHero**](https://typehero.dev/)
   - learning: **Go**
-  - editing for the guy who doesn't know what he is talking about: [**theo**](https://twitter.com/t3dotgg)
+  - editor of the year 2022: [**theo**](https://twitter.com/t3dotgg)
+  - *looking for opportunities* 👀
 
 ### 🛠️ Techstack 
   - [T3 Stack](https://github.com/t3-oss/create-t3-app#about)
